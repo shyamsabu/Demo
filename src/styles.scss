@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.wrap{
+    margin-top: 55px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 94vh;
+    background-image: url("../src/assets/images/carbg1.jpg");
+    background-repeat: no-repeat;background-size: cover;
+    padding: 0 15px;
+    color:#fff;
+}
